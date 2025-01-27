@@ -1,6 +1,7 @@
 # our first python code
 
-print("the whole world is watching")
+
+print("hello world with merge conflict")
 
 print("Elise")
 
