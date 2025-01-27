@@ -1,3 +1,5 @@
 # our first python code
 
-echo "hello world"
+print("hello world")
+
+
